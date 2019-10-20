@@ -1,2 +1,0 @@
-# jiakunlike
-the first git
